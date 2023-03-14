@@ -1,10 +1,10 @@
 #include "main.h"
-#include <stdio.c>
-#include <stdlib.c>
+#include <stdio.h>
+#include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
 
-int _abs(int n);
+int _abs(int n)
 {
 	return abs(n);
 }

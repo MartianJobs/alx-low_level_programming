@@ -1,10 +1,11 @@
 #include "main.h"
 #include <stdio.h>
-#include <stdib.h>
+#include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
 
-int _putchar.c(char c)
+int _putchar(char c)
+
 {
-	return (putchar(c));
+	return putchar(c);
 }
